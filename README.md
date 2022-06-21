@@ -1,5 +1,7 @@
 ## Human Resources Management System
 
+## Career Wind
+
 #### This application completely belongs to Furkan Emre Çakıroğlu and its copyrights are reserved.
 
 📃Registration in the application is divided into two as individual and company. <br>
