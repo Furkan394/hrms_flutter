@@ -25,3 +25,59 @@
 &ensp;  ❌Password change is not active. <br>
 &ensp;  ⭐A description of the company can be added. <br>
 
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/login%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20register.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/company%20register.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20home%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/posting%20detail%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20saved.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20applications.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/notifications%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20profile%20screen.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20settings%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20account.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/candidate%20cover%20letter.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/company%20home%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/create%20job%20posting%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/companies%20postings.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/applicants%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/applicants%20cover%20letter.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/applicants%20resume.png" width="25%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/company%20settings%20screen.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/company%20account.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Furkan394/hrms_flutter/blob/master/screens/company%20description.png" width="25%">
+</p>
+
