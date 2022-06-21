@@ -1,0 +1,69 @@
+name: hrms
+description: Human Resources Management System
+
+#### This application completely belongs to Furkan Emre Çakıroğlu and its copyrights are reserved.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #PDF Viewer
+  advance_pdf_viewer_fork: ^2.0.0
+  #Random uid for Firebase data
+  uuid: ^3.0.6
+  #Message for users
+  fluttertoast: ^8.0.9
+  #Firebase
+  firebase_auth: ^3.3.13
+  cloud_firestore: ^3.1.10
+  firebase_storage: ^10.2.11
+  firebase_core: ^1.14.0
+  #Provider
+  provider: ^6.0.2
+  #Files and Images
+  file_picker: ^4.5.1
+  image_picker: ^0.8.5
+  #Icons
+  cupertino_icons: ^1.0.2
+  flutter_feather_icons: ^2.0.0+1
+  iconly: ^1.0.1
+  unicons: ^2.1.0
+  #Texts
+  simple_gradient_text: ^1.2.2
+  markdown_editable_textinput: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: ArchitectsDaughter
+      fonts:
+       - asset: assets/fonts/ArchitectsDaughter-Regular.ttf
+    - family: Nunito
+      fonts:
+       - asset: assets/fonts/Nunito-SemiBold.ttf
+         weight : 500
+       - asset: assets/fonts/Nunito-Regular.ttf
+         weight : 400
+       - asset: assets/fonts/Nunito-Light.ttf
+         weight : 300
+    - family: MyFlutterApp
+      fonts:
+       - asset: assets/fonts/MyFlutterApp.ttf

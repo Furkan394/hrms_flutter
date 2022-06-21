@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">127301235651-72vbpcfi7ld6jaep46pgjdl1qkfge1s3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">127301235651</string>
+    <string name="google_api_key" translatable="false">AIzaSyDv7TtTTbf-bUvKo_CcBwjUWd-WN3w_SZo</string>
+    <string name="google_app_id" translatable="false">1:127301235651:android:be441b4bd61e8357988376</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDv7TtTTbf-bUvKo_CcBwjUWd-WN3w_SZo</string>
+    <string name="google_storage_bucket" translatable="false">hrms-grad-project.appspot.com</string>
+    <string name="project_id" translatable="false">hrms-grad-project</string>
+</resources>
